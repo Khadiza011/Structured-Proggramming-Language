@@ -142,7 +142,7 @@ Temperature less than: 10°C
 
 ---
 
-## 📊 Analysis Performed
+## Analysis Performed
 
 The program provides:
 
@@ -215,6 +215,7 @@ Coldest Day: Day 1
 
 ## Sample Input
 5
+
 7
 
 32 34 33 35 36 38 37
