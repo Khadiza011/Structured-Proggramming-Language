@@ -218,18 +218,26 @@ Coldest Day: Day 1
 7
 
 32 34 33 35 36 38 37
+
 28 29 30 31 32 33 34
+
 18 19 20 21 22 23 24
+
 42 41 40 39 38 37 36
+
 12 14 13 15 16 17 18
 
 ## Sample Output
 Farm-wise Summary
 
 Farm 1
+
 Average Temperature: 35.00°C
+
 Condition: High Heat Stress
+
 Heat Stress Days (>40°C): 0
+
 Cold Stress Days (<10°C): 0
 
 
