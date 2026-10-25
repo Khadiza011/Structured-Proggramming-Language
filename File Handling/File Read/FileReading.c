@@ -7,7 +7,9 @@ int main()
     char text[100];
 
     file = fopen("data.txt", "r");
-
+    
+    // Before running this program, create a data.txt file in the same directory and write some text in it.
+    
     if (file == NULL)
     {
         printf("File not found.\n");
