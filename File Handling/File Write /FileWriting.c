@@ -7,6 +7,8 @@ int main()
 
     file = fopen("data.txt", "w");
 
+    // "w" mode creates a file if it does not exist, but overwrites its existing contents if it does.
+    
     if (file == NULL)
     {
         printf("File could not be opened.\n");
