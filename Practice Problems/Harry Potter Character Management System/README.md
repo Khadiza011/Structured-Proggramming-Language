@@ -1,4 +1,4 @@
-# SPL Project — 
+# SPL Project 
 
 ## Q1. C Program
 
