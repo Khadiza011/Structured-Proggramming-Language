@@ -30,7 +30,6 @@ The main purpose of this repository is to:
 - Pointers
 - Structures
 - File Handling
-- Lab Assignments
 - Practice Problems
 
 ## Development Environment
