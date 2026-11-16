@@ -31,7 +31,7 @@ The program can:
 - Each column represents a day.
 
 Example:
-# 🌱 Smart Agriculture Monitoring System
+# Smart Agriculture Monitoring System
 
 A C-based Smart Agriculture Monitoring System that analyzes daily soil temperature data collected from multiple farms. The program helps farmers understand environmental conditions by calculating average temperatures, detecting stress conditions, and identifying extreme temperature records.
 
